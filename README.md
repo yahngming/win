@@ -1,1 +1,1 @@
-# RSS subscription list
+# reg
